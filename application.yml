@@ -1,0 +1,12 @@
+my:
+  greeting: Hello world from config server
+  list:
+    values: one, two, three, four
+spring:
+  cloud:
+    config:
+      server:
+        native:                      
+          searchLocations: classpath:/config          
+server:
+  port: 8080
