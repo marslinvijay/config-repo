@@ -1,2 +1,2 @@
-my.greeting: again updated Greeting from microservice specific file
+my.greeting: newly updated Greeting from microservice specific file
 server.port: 8095
