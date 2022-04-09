@@ -1,5 +1,5 @@
 my:
-  greeting: Hello marslin vijay, world of spring,  from cloud config server
+  greeting: Hello marslin vijay, world of spring,  from cloud config server and all other clients
   list:
     values: one, two, three, four
 spring:
