@@ -1,5 +1,5 @@
 my:
-  greeting: Hello test spring from cloud config server
+  greeting: Hello my spring from cloud config server
   list:
     values: one, two, three, four
 spring:
