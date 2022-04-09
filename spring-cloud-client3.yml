@@ -1,4 +1,4 @@
-my.greeting: my newly updated Greeting from microservice specific file from client 3
+#my.greeting: my newly updated Greeting from microservice specific file from client 3
 server.port: 8081
 
 spring:
