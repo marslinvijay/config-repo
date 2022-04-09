@@ -1,5 +1,5 @@
-#my.greeting: my newly updated Greeting from microservice specific file
-#server.port: 8095
+my.greeting: my newly updated Greeting from microservice specific file
+server.port: 8095
 
 spring:
   rabbitmq:
