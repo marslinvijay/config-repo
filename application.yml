@@ -23,6 +23,6 @@ management:
         include: "*"
 
 db:
-  connection: "{url: http://, username: guest, password: guest}"
+  connection: "{url: 'http://', username: 'guest', password: 'guest'}"
   host: 127.0.0.1
   port: 1210
