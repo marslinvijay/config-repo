@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from config server!! marslin vijay!!, welcome to the world of spring
+  greeting: Hello from config server!! marslin vijay!!, welcome to the world of spring from Kafka
   list:
     values: one, two, three, four
 spring:
